@@ -157,8 +157,13 @@ EOF  all  create  destroy  help  quit  show  update
 
 ## Bugs
 No known bugs at this time
+
 ## AUTHOR
-Seta  Donati
+1. Seta  Donati 
+Email: setadonati@gmail.com
+Github username: Setadonati
+
+2. Adam Babangida
 
 ## LICENSE
-no copyright
+No copyright at the time
